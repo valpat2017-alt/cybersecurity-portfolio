@@ -8,7 +8,7 @@ This repository contains reports and analyses from my learning journey.
 - [Nmap Scan](Nmap-Scan.md)  
 - [Wireshark Analysis](Wireshark-Analysis.md)  
 - [Vulnerability Assessment](Vulnerability-Assessment.md)  
-- [Linux Basic Commands](Linux-basic-command.md)  
+- [Linux Basic Commands](Cybersecurity-Portfolio/linux-basic-command.md)  
 
 ## About
 Each file documents practical exercises and investigations I’ve completed in cybersecurity.
