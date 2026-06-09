@@ -3,7 +3,11 @@ Basic Kali Linux Commands Practice
 
 Overview
 
-This project documents my hands-on practice with basic Kali Linux commands as part of my cybersecurity learning journey. The objective was to become familiar with the Linux command-line environment and perform common file management and system administration tasks.
+This project documents my hands-on practice with
+basic Kali Linux commands as part of my cybersecurity
+learning journey. The objective was to become familiar with
+the Linux command-line environment and perform common file 
+management and system administration tasks.
 
 Commands Practiced
 
@@ -66,4 +70,5 @@ Author
 
 Chidubem Patrick
 
-This repository serves as a record of my progress while learning Linux and building foundational cybersecurity skills.
+This repository serves as a record of my progress while 
+learning Linux and building foundational cybersecurity skills.
