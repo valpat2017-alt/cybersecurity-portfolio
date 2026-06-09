@@ -4,7 +4,7 @@ Welcome to my cybersecurity portfolio!
 This repository contains reports and analyses from my learning journey.
 
 ## Contents
-- [Incident Reports](Incident-reports.md)  
+- [Incident Reports](Incident-reports.md) — Documentation of security incidents and response steps.
 - [Nmap Scan](Nmap-Scan.md)  — Network scanning results and analysis.
 - [Wireshark Analysis](Wireshark-Analysis.md)  
 - [Vulnerability Assessment](Vulnerability-Assessment.md)  
