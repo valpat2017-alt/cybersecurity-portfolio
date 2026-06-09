@@ -5,7 +5,7 @@ This repository contains reports and analyses from my learning journey.
 
 ## Contents
 - [Incident Reports](Incident-reports.md)  
-- [Nmap Scan](Nmap-Scan.md)  
+- [Nmap Scan](Nmap-Scan.md)  — Network scanning results and analysis.
 - [Wireshark Analysis](Wireshark-Analysis.md)  
 - [Vulnerability Assessment](Vulnerability-Assessment.md)  
 - [Linux Basic Commands](Linux-basic-commands.md )  
