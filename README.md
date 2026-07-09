@@ -9,7 +9,7 @@ This repository contains reports and analyses from my learning journey.
 - [Wireshark Analysis](Wireshark-Analysis.md) — Packet capture and traffic investigation.
 - [Vulnerability Assessment](Vulnerability-Assessment.md) — System weaknesses and remediation steps.
 - [Linux Basic Commands](Linux-basic-commands.md ) - Practice and notes on essential Linux CLI usage.
- - Networking & Packet Tracer Labs - Practice and notes on networking.
+ - .[Networking & Packet Tracer Labs] (Networking-&-Packet-Tracer-Labs.md)- Practice and notes on networking.
 
 ## About
 Each file documents practical exercises and investigations I’ve completed in cybersecurity.
