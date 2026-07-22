@@ -15,3 +15,5 @@ A brute‑force login attempt was detected against the Telnet service running on
 ---
 
 ## Log Evidence (Excerpt)
+
+pam_unix(login:auth): authentication failure FAILED LOGIN (1) FROM 192.168.56.102 FOR msfadmin
